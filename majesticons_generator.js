@@ -1,8 +1,8 @@
 const fs = require('fs')
 const path = require('path')
 
-const codeTemplate = "majesticon_flutter.template.dart"
-const sourceTarget = "lib"
+const codeTemplate = "majesticons_flutter.template.dart"
+const sourceTarget = "build/lib"
 const iconpath = "majesticons"
 const styles = ["line", "solid"]
 
